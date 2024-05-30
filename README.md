@@ -15,5 +15,4 @@ I'm Yash Joshi, a dedicated Data Engineer passionate about designing and impleme
 - LinkedIn: [yash-analytics](https://www.linkedin.com/in/yash-analytics/)
 - Email: [yash.joshi@mail.mcgill.ca](mailto:yash.joshi@mail.mcgill.ca)
 
-### Project: 
-- Checkout my projects below:
+### Checkout my projects below:
