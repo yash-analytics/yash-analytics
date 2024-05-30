@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Yash Joshi, a dedicated Data Engineer passionate about designing and implementing scalable data architectures that efficiently handle large volumes of data. With over 3 years of experience, my expertise lies in crafting robust ETL pipelines, optimizing data storage solutions, and integrating complex data systems to drive actionable insights.
+I'm Yash, a dedicated Data Engineer passionate about designing and implementing scalable data architectures that efficiently handle large volumes of data. With over 3 years of experience, my expertise lies in crafting robust ETL pipelines, optimizing data storage solutions, and integrating complex data systems to drive actionable insights.
 
 ### 😄 Pronouns:
 - He/Him
