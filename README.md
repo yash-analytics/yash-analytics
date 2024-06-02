@@ -8,7 +8,7 @@ I'm Yash, a dedicated Data Engineer passionate about designing and implementing 
 - He/Him
 
 ### ⚡ Fun fact:
-- When not crunching data, I enjoy hiking and exploring urban cafes. I’ve trekked up Mount Sutton and love finding new trails and taste testing coffee wherever I go.
+- In my free time, I love cooking, exploring the outdoors and cities, and running along the St. Lawrence River. I hiked Mount Sutton in the snow and in the summer, taking in the stunning views. I'm always on the lookout for the best trails and good recipes, so feel free to share the same with me!
 
 ### 📫 How to reach me:
 - Website: [yash-analyics.com](https://yash-analytics.com/)
